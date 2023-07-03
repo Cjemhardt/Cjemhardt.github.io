@@ -1,0 +1,9 @@
+1. Open cmd
+2. Command: "cd C:\Github Repos\Cjemhardt.github.io"
+3. Command: "python3 -m http.server 7800"
+4. Go to the url 'localhost:7800'
+
+to close the server:
+https://www.alibabacloud.com/tech-news/web-server/4l6uhrqymg0-how-to-close-a-python-web-server
+1. shutdown -h now
+2. killall -9 python
